@@ -9,3 +9,4 @@ Berkas masukan latihan untuk video Seri AI untuk Pemula. Semua isi fiktif: **CON
 | `ep10-paket-usulan/` | #10 Paket usulan lengkap (catatan TOR dan RAB fiktif) |
 | `ep14-notulen/` | #14 Catatan rapat jadi daftar tindak lanjut |
 | `ep16-kebutuhan-bahan/` | #16 Kebutuhan bahan operasional |
+| `ep17-rekap-csv/` | #17 Rekap pengeluaran dari CSV |
