@@ -11,3 +11,4 @@ Berkas masukan latihan untuk video Seri AI untuk Pemula. Semua isi fiktif: **CON
 | `ep16-kebutuhan-bahan/` | #16 Kebutuhan bahan operasional |
 | `ep17-rekap-csv/` | #17 Rekap pengeluaran dari CSV |
 | `ep15-instruksi-palsu/` | #15 Cek instruksi palsu dalam dokumen (contoh latihan keamanan) |
+| `ep18-opsi-keputusan/` | #18 Susun pilihan untuk keputusan tim |
