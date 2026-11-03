@@ -14,6 +14,9 @@ Seri pendamping: [Seri AI untuk Pemula di YouTube](https://www.youtube.com/@Seri
 | `rab-sederhana` | Mengubah BOQ dan bukti harga menjadi draf RAB berformula. |
 | `riset-harga-vendor` | Menelusuri sumber dan membandingkan harga pada basis yang sebanding. |
 | `model-keuangan-sederhana` | Membuat model kelayakan Excel berbasis penggerak, dengan arus kas proyek dan ekuitas terpisah. |
+| `notulen-tindak-lanjut` | Mengubah catatan rapat menjadi keputusan, usulan, dan tindak lanjut yang terlacak. |
+| `opsi-keputusan` | Merangkum pertanyaan, opsi, risiko, dan usulan AI dalam memo keputusan. |
+| `kebutuhan-bahan-operasional` | Menghitung kebutuhan bahan, kemasan, dan proyeksi stok dari dasar konsumsi. |
 
 ## Pasang di omp
 
