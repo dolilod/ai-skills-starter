@@ -5,3 +5,4 @@ Berkas masukan latihan untuk video Seri AI untuk Pemula. Semua isi fiktif: **CON
 | Folder | Episode |
 | --- | --- |
 | `ep6-reviu-dokumen/` | #6 Reviu dokumen masuk (lampiran yang dirujuk sengaja tidak disertakan) |
+| `ep8-rab/` | #8 Menyusun dan mereviu RAB (BOQ dan harga satuan fiktif) |
