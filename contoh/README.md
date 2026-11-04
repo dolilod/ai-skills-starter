@@ -13,3 +13,4 @@ Berkas masukan latihan untuk video Seri AI untuk Pemula. Semua isi fiktif: **CON
 | `ep15-instruksi-palsu/` | #15 Cek instruksi palsu dalam dokumen (contoh latihan keamanan) |
 | `ep18-opsi-keputusan/` | #18 Susun pilihan untuk keputusan tim |
 | `ep11-cad-freecad/` | #11 Model CAD bordes dan railing (skrip FreeCAD, STEP, DXF, daftar material; berkas .FCStd dibuat ulang dengan menjalankan skrip) |
+| `ep19-subagent/` | #19 Bagi tugas ke subagent di DeepSeek Harness (catatan rapat dan anggaran fiktif) |
