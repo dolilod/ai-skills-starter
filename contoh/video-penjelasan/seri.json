@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "language": "id",
+  "status": "script-storyboard-only",
+  "disclaimer": "CONTOH FIKTIF — BUKAN DOKUMEN RESMI",
+  "duration_note": "Sekitar satu menit per bagian; waktu final mengikuti rekaman suara, bukan perkiraan.",
+  "episodes": [
+    {
+      "id": "01-tujuan",
+      "title": "Dari topik menjadi tujuan belajar",
+      "goal": "Menyusun prompt dengan penonton, satu hasil belajar, contoh dan batas.",
+      "beats": [
+        {
+          "id": "01-tujuan-01",
+          "narration": "Mau membuat video penjelasan dengan AI? Mulai dari satu hal yang bisa dilakukan penonton setelah menonton.",
+          "screen_text": "Satu hasil belajar",
+          "visual_action": "Dokumen tanpa nama masuk ke bingkai pencarian; penanda tujuan menyorotnya.",
+          "spoken_trigger": "Mulai",
+          "timing_seconds": null
+        },
+        {
+          "id": "01-tujuan-02",
+          "narration": "Topik seperti manajemen berkas masih terlalu luas. Penonton perlu melihat tindakan yang konkret.",
+          "screen_text": "Topik terlalu luas",
+          "visual_action": "Tumpukan dokumen bercabang menjadi banyak topik; kamera memilih satu berkas.",
+          "spoken_trigger": "Topik",
+          "timing_seconds": null
+        },
+        {
+          "id": "01-tujuan-03",
+          "narration": "Tujuan kita sederhana. Setelah menonton, pegawai baru bisa memberi nama berkas supaya mudah dicari.",
+          "screen_text": "Beri nama agar mudah dicari",
+          "visual_action": "Berkas kosong diberi label tujuan; kolom pencarian tampil di sampingnya.",
+          "spoken_trigger": "Tujuan",
+          "timing_seconds": null
+        },
+        {
+          "id": "01-tujuan-04",
+          "narration": "Contoh kita adalah laporan fiktif. Nama berkas memuat tanggal, isi, dan versi.",
+          "screen_text": "2026-10-01_laporan-v01.pdf",
+          "visual_action": "Tiga potongan nama tersusun dari tanggal, jenis dokumen, dan versi; setiap label muncul saat disebut.",
+          "spoken_trigger": "tanggal",
+          "timing_seconds": null
+        },
+        {
+          "id": "01-tujuan-05",
+          "narration": "Prompt yang jelas menyebut penonton, tujuan, contoh, dan bentuk hasil. Jangan hanya menulis: buat video yang bagus.",
+          "screen_text": "Penonton / Tujuan / Contoh / Hasil",
+          "visual_action": "Empat bahan mengisi prompt; tulisan umum yang kabur diganti dengan brief konkret.",
+          "spoken_trigger": "Prompt",
+          "timing_seconds": null
+        },
+        {
+          "id": "01-tujuan-06",
+          "narration": "Minta AI menulis naskah dan rencana gambar terlebih dahulu. Periksa apakah contoh benar-benar mengajarkan tujuan tadi.",
+          "screen_text": "Naskah + rencana gambar",
+          "visual_action": "Prompt menghasilkan dua lembar yang sejajar; satu memuat ucapan dan satu sketsa.",
+          "spoken_trigger": "Minta",
+          "timing_seconds": null
+        },
+        {
+          "id": "01-tujuan-07",
+          "narration": "Sekarang pilih satu pekerjaan kecil. Lengkapi kalimat: setelah menonton, penonton bisa melakukan apa?",
+          "screen_text": "Setelah menonton, penonton bisa ...",
+          "visual_action": "Satu ruang jawaban kosong tetap diam; penonton dapat menjeda untuk menulis.",
+          "spoken_trigger": "Sekarang",
+          "timing_seconds": null
+        },
+        {
+          "id": "01-tujuan-08",
+          "narration": "Di bagian berikutnya, kita pasangkan ucapan dengan gambar. Jangan mulai dari efek atau musik dulu.",
+          "screen_text": "Berikutnya: ucapan bertemu gambar",
+          "visual_action": "Dua lembar tadi dihubungkan; tampilan ditutup pada pasangan naskah dan gambar.",
+          "spoken_trigger": "Di bagian berikutnya",
+          "timing_seconds": null
+        }
+      ]
+    },
+    {
+      "id": "02-gambar",
+      "title": "Pasangkan ucapan dengan gambar",
+      "goal": "Membuat storyboard dengan aksi visual dan pemicu ucapan.",
+      "beats": [
+        {
+          "id": "02-gambar-01",
+          "narration": "Video penjelasan bukan suara yang membacakan slide. Gambar perlu memperlihatkan apa yang sedang dijelaskan.",
+          "screen_text": "Tunjukkan, jangan hanya bacakan",
+          "visual_action": "Lembar penuh tulisan berubah menjadi berkas yang namanya dapat diperiksa.",
+          "spoken_trigger": "Gambar",
+          "timing_seconds": null
+        },
+        {
+          "id": "02-gambar-02",
+          "narration": "Naskah dan gambar kita susun berpasangan. Satu kalimat membawa satu perubahan yang mudah diikuti.",
+          "screen_text": "Satu kalimat / satu perubahan",
+          "visual_action": "Pita ucapan disejajarkan dengan pita visual pada meja penyuntingan.",
+          "spoken_trigger": "Naskah",
+          "timing_seconds": null
+        },
+        {
+          "id": "02-gambar-03",
+          "narration": "Tanggal memberi petunjuk kapan laporan dibuat. Sorot bagian tanggal ketika narator mulai menyebut tanggal.",
+          "screen_text": "2026-10-01",
+          "visual_action": "Bagian tanggal disorot; isi dan versi belum diberi sorotan.",
+          "spoken_trigger": "Tanggal",
+          "timing_seconds": null
+        },
+        {
+          "id": "02-gambar-04",
+          "narration": "Isi menjelaskan dokumennya. Sekarang sorotan berpindah ke kata laporan, bukan ke seluruh nama sekaligus.",
+          "screen_text": "laporan",
+          "visual_action": "Sorotan memindah fokus dari tanggal ke jenis dokumen; nama utuh tetap sebagai konteks.",
+          "spoken_trigger": "Isi",
+          "timing_seconds": null
+        },
+        {
+          "id": "02-gambar-05",
+          "narration": "Versi membedakan revisi. Sorot versi ketika kata versi diucapkan, supaya penonton tahu bagian yang dimaksud.",
+          "screen_text": "v01",
+          "visual_action": "Sorotan mengarah ke potongan versi; berkas revisi ditampilkan sebagai perbandingan kualitatif.",
+          "spoken_trigger": "Versi",
+          "timing_seconds": null
+        },
+        {
+          "id": "02-gambar-06",
+          "narration": "Storyboard mencatat kalimat, gambar, dan pemicu perubahan. Waktu akhirnya mengikuti suara yang benar-benar direkam.",
+          "screen_text": "Kalimat / gambar / pemicu",
+          "visual_action": "Tiga baris catatan tersambung ke ucapan; kotak waktu tetap belum terisi.",
+          "spoken_trigger": "Storyboard",
+          "timing_seconds": null
+        },
+        {
+          "id": "02-gambar-07",
+          "narration": "Buat pembuka dan satu contoh dahulu. Lihat apakah tulisan terbaca dan perubahan gambar membantu penjelasan.",
+          "screen_text": "Uji satu contoh dahulu",
+          "visual_action": "Area pratinjau memperbesar satu adegan; bukan seluruh episode sekaligus.",
+          "spoken_trigger": "Buat",
+          "timing_seconds": null
+        },
+        {
+          "id": "02-gambar-08",
+          "narration": "Baru lanjutkan adegan lain setelah contoh itu bekerja. Di bagian terakhir, kita periksa hasil sebelum dibagikan.",
+          "screen_text": "Berikutnya: periksa hasil",
+          "visual_action": "Adegan yang sudah diperiksa menjadi acuan bagi adegan berikut, bukan disalin mentah.",
+          "spoken_trigger": "Baru",
+          "timing_seconds": null
+        }
+      ]
+    },
+    {
+      "id": "03-periksa",
+      "title": "Periksa sebelum dibagikan",
+      "goal": "Membedakan pemeriksaan isi, suara, takarir dan berkas dari izin publikasi.",
+      "beats": [
+        {
+          "id": "03-periksa-01",
+          "narration": "Video sudah jadi bukan berarti siap dibagikan. Periksa hasilnya, bukan hanya pesan sukses dari AI.",
+          "screen_text": "Periksa hasil aktual",
+          "visual_action": "Berkas video masuk ke meja periksa; tombol berbagi tetap tertutup.",
+          "spoken_trigger": "Periksa",
+          "timing_seconds": null
+        },
+        {
+          "id": "03-periksa-02",
+          "narration": "Isi harus sesuai tujuan. Pada contoh kita, penonton perlu memahami tanggal, isi, dan versi nama berkas.",
+          "screen_text": "Isi sesuai tujuan",
+          "visual_action": "Nama berkas dan tujuan diletakkan sejajar; masing-masing komponennya dicocokkan.",
+          "spoken_trigger": "Isi",
+          "timing_seconds": null
+        },
+        {
+          "id": "03-periksa-03",
+          "narration": "Suara perlu didengarkan. Cek pelafalan, kalimat yang terpotong, dan musik yang menutupi kata-kata.",
+          "screen_text": "Dengarkan suara",
+          "visual_action": "Gelombang suara tampil dengan penanda kalimat; tidak ada indikator lulus otomatis.",
+          "spoken_trigger": "Suara",
+          "timing_seconds": null
+        },
+        {
+          "id": "03-periksa-04",
+          "narration": "Gambar berubah mengikuti ucapan. Putar bagian yang disorot dan pastikan sorotan tidak mendahului penjelasan.",
+          "screen_text": "Gambar mengikuti ucapan",
+          "visual_action": "Penanda putar melewati ucapan dan sorotan pada posisi yang sama.",
+          "spoken_trigger": "Gambar",
+          "timing_seconds": null
+        },
+        {
+          "id": "03-periksa-05",
+          "narration": "Takarir juga harus cocok. Periksa kata, waktu muncul, ukuran huruf, dan bagian yang menutupi gambar penting.",
+          "screen_text": "Takarir terbaca dan sesuai",
+          "visual_action": "Kotak takarir ditempatkan dalam area aman di bawah berkas.",
+          "spoken_trigger": "Takarir",
+          "timing_seconds": null
+        },
+        {
+          "id": "03-periksa-06",
+          "narration": "Simpan suara per kalimat. Jika satu kalimat salah, perbaiki kalimat dan adegan yang terdampak saja.",
+          "screen_text": "Perbaiki bagian yang berubah",
+          "visual_action": "Satu potongan suara diganti; potongan lain tetap terkunci, tanpa angka biaya rekaan.",
+          "spoken_trigger": "Simpan",
+          "timing_seconds": null
+        },
+        {
+          "id": "03-periksa-07",
+          "narration": "Paket akhir berisi video, takarir, dan sumber yang bisa disunting. Coba putar video sampai selesai.",
+          "screen_text": "MP4 + SRT + sumber",
+          "visual_action": "Tiga berkas dipasangkan sebagai satu paket; penanda akhir menunjukkan pemutaran utuh.",
+          "spoken_trigger": "Paket akhir",
+          "timing_seconds": null
+        },
+        {
+          "id": "03-periksa-08",
+          "narration": "Publikasi adalah langkah terpisah. Pastikan izin dan tujuan berbagi jelas sebelum mengunggah atau mengirim.",
+          "screen_text": "Periksa izin sebelum berbagi",
+          "visual_action": "Paket berhenti di gerbang persetujuan; tidak ada unggahan atau centang publikasi.",
+          "spoken_trigger": "Publikasi",
+          "timing_seconds": null
+        }
+      ]
+    }
+  ]
+}
