@@ -4,6 +4,8 @@ Kumpulan *skill* AI berbahasa Indonesia untuk latihan dan pekerjaan umum di berb
 
 Seri pendamping: [Seri AI untuk Pemula di YouTube](https://www.youtube.com/@SeriAIuntukPemula).
 
+Untuk mengambil berkas latihan tanpa Terminal, ikuti [panduan mulai tanpa Terminal](MULAI-TANPA-TERMINAL.md).
+
 ## Pilih skill
 
 | Skill | Kegunaan |
