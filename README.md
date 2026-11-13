@@ -19,6 +19,7 @@ Untuk mengambil berkas latihan tanpa Terminal, ikuti [panduan mulai tanpa Termin
 | `notulen-tindak-lanjut` | Mengubah catatan rapat menjadi keputusan, usulan, dan tindak lanjut yang terlacak. |
 | `opsi-keputusan` | Merangkum pertanyaan, opsi, risiko, dan usulan AI dalam memo keputusan. |
 | `kebutuhan-bahan-operasional` | Menghitung kebutuhan bahan, kemasan, dan proyeksi stok dari dasar konsumsi. |
+| `humanisasi-teks` | Menulis ulang teks kantor buatan AI supaya wajar dibaca, tanpa mengubah fakta. |
 
 ## Pasang di omp
 

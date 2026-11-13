@@ -16,6 +16,7 @@
    | `ep17-rekap-csv` | Rekap pengeluaran dari CSV |
    | `ep18-opsi-keputusan` | Susun pilihan untuk keputusan tim |
    | `ep19-subagent` | Bagi tugas ke subagent di DeepSeek Harness |
+   | `ep20-humanisasi` | Rapikan tulisan AI yang kaku tanpa mengubah fakta |
 
 4. Di Finder, buka **Documents** dan buat folder **Latihan-AI**. Salin folder contoh yang dipilih ke dalamnya; Anda boleh mengganti nama salinannya, misalnya menjadi `Documents/Latihan-AI/reviu-dokumen`. Gunakan folder salinan ini untuk latihan agar berkas contoh asli tetap tersedia.
 5. Di DeepSeek Harness, pilih **Add workspace** → pilih folder latihan yang baru disalin → pilih model.

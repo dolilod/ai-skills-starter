@@ -14,3 +14,4 @@ Berkas masukan latihan untuk video Seri AI untuk Pemula. Semua isi fiktif: **CON
 | `ep18-opsi-keputusan/` | #18 Susun pilihan untuk keputusan tim |
 | `ep11-cad-freecad/` | #11 Model CAD bordes dan railing (skrip FreeCAD, STEP, DXF, daftar material; berkas .FCStd dibuat ulang dengan menjalankan skrip) |
 | `ep19-subagent/` | #19 Bagi tugas ke subagent di DeepSeek Harness (catatan rapat dan anggaran fiktif) |
+| `ep20-humanisasi/` | #20 Rapikan tulisan AI yang kaku tanpa mengubah fakta (catatan fakta fiktif untuk pengumuman warga; skill `humanisasi-teks`) |
