@@ -13,6 +13,7 @@ Untuk mengambil berkas latihan tanpa Terminal, ikuti [panduan mulai tanpa Termin
 | `surat-dinas-umum` | Menyusun draf surat formal dan berkas Word yang dapat disunting. |
 | `reviu-dokumen-masuk` | Mereviu dokumen masuk, menyusun temuan dan draf disposisi. |
 | `presentasi-sederhana` | Menyusun presentasi PowerPoint yang dapat disunting. |
+| `video-penjelasan-bernarasi` | Menyusun video penjelasan pendek dari tujuan, naskah, visual, suara dan pemeriksaan hasil. [Latihan tiga bagian](contoh/video-penjelasan/README.md). |
 | `rab-sederhana` | Mengubah BOQ dan bukti harga menjadi draf RAB berformula. |
 | `riset-harga-vendor` | Menelusuri sumber dan membandingkan harga pada basis yang sebanding. |
 | `model-keuangan-sederhana` | Membuat model kelayakan Excel berbasis penggerak, dengan arus kas proyek dan ekuitas terpisah. |
